@@ -1,0 +1,26 @@
+[debug] [2024-11-10T17:56:46.583Z] ----------------------------------------------------------------------
+[debug] [2024-11-10T17:56:46.584Z] Command:       /usr/local/share/nvm/versions/node/v20.17.0/bin/node /home/codespace/nvm/current/bin/firebase init
+[debug] [2024-11-10T17:56:46.585Z] CLI Version:   13.24.2
+[debug] [2024-11-10T17:56:46.585Z] Platform:      linux
+[debug] [2024-11-10T17:56:46.585Z] Node Version:  v20.17.0
+[debug] [2024-11-10T17:56:46.585Z] Time:          Sun Nov 10 2024 17:56:46 GMT+0000 (Coordinated Universal Time)
+[debug] [2024-11-10T17:56:46.585Z] Env Overrides: GITHUB_API_URL, GITHUB_API_URL
+[debug] [2024-11-10T17:56:46.585Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-11-10T17:56:46.589Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-11-10T17:56:46.589Z] > authorizing via signed-in user (midhun1998official@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /workspaces/setfit/nextone
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
